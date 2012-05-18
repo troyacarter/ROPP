@@ -1,0 +1,11 @@
+To clone the repository
+git clone git@github.com:troyacarter/ROPP.git
+
+
+To pull changes 
+git pull    (while in the directory with the cloned repository)
+
+To push changes
+git add <name of file(s) you have changed>
+git commit -a    (will open editor for you to type in a comment on your changes)
+git push
